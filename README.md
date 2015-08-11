@@ -2,3 +2,7 @@
 
 1. log for function call.
 2. log where you want.
+
+
+### Installation
+python setup.py install
