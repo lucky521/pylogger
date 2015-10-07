@@ -8,11 +8,11 @@ class a:
 
 @logging_for_func(level='DEBUG')
 def add(a, b):
-	info("fawefw")
+	info("fawefw")  # info log
 	z = a.x + b.y
 
 def function1():
-	error("nuivvea")
+	error("nuivvea")  # error log
 
 
 import time
